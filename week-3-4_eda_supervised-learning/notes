@@ -1,0 +1,78 @@
+Supervised Learning (labels exist)
+    Techniques
+        - Regression
+        - Classification
+
+Unsupervised Learning (labels don't exist)
+    Techniques
+        - Clustering
+        - Dimensionality Reduction
+
+Correlation
+
+1.000
+0.98
+0.86
+0.65
+0.32
+0
+-0.4
+-0.75
+-0.8
+-1.000
+
+
+
+-1 <= correlation < 1
+
+
+Data Science
+    Statistics & Math
+    Computer Programming
+    Domain Expertise
+
+
+
+Age
+29
+30
+20
+21
+29
+29
+21
+29
+29
+
+
+
+1 - Analysis of Numerical Features
+2 - Analysis of Categorical Features
+3 - Feature Engineering
+4 - Training the Model
+5 - Evaluate the Model (Precision, Recall, Accuracy)
+6 - Prediction with Machine Learning Model
+7 - Save the model
+
+
+
+Classify
+    Decision Trees
+        Axis-Parallel Hyperplance
+            Linear Algebra
+                Vectors
+                Basis Vectors
+                Transpose
+                Vector Arithemtic
+    
+    Naive-Bayes Classifier
+        Probability Theory
+            Bayesian Theoreom
+                Conditional Probability
+
+1 - Import data
+2 - EDA
+3 - Feature Engineering
+4 - Train/Test Split
+5 - Model Training
+6 - Model Metrics
