@@ -1,0 +1,27 @@
+::: Personality Analysis for Marketing Campaign
+https://www.kaggle.com/imakash3011/customer-personality-analysis
+
+::: Fundings for Tech Startups
+https://www.kaggle.com/shivamb/tech-company-fundings-2020-onwards
+tech-fundings.csv
+
+::: Text Classification for Media
+
+::: Sentiment Analysis for E-Commerce
+https://github.com/danyentezari/ds-ml_febapr-2022/blob/master/final-project_guide-notebooks/option-4-guide.ipynb
+
+::: Fraud Detection for Banking
+
+::: Image Recognition with Trained Model
+
+
+::: Sale Forecasting of Real Estate
+https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+house-prices_train.csv
+house-prices_test.csv
+
+::: Price Forecasting in Oil & Gas (Time Series)
+time-series-train.csv
+time-series-test.csv
+
+::: Survival Analysis for Ecommerce
