@@ -6,11 +6,13 @@ https://www.kaggle.com/shivamb/tech-company-fundings-2020-onwards
 tech-fundings.csv
 
 ::: Text Classification for Media
+To be added
 
 ::: Sentiment Analysis for E-Commerce
 https://github.com/danyentezari/ds-ml_febapr-2022/blob/master/final-project_guide-notebooks/option-04-guide.ipynb
 
 ::: Fraud Detection for Banking
+https://github.com/danyentezari/ds-ml_febapr-2022/blob/master/final-project_guide-notebooks/option-05-guide.ipynb
 
 ::: Image Recognition with Trained Model
 https://github.com/danyentezari/ds-ml_febapr-2022/blob/master/final-project_guide-notebooks/option-10-guide.ipynb
@@ -25,3 +27,4 @@ time-series-train.csv
 time-series-test.csv
 
 ::: Survival Analysis for Ecommerce
+To be added
