@@ -8,12 +8,12 @@ tech-fundings.csv
 ::: Text Classification for Media
 
 ::: Sentiment Analysis for E-Commerce
-https://github.com/danyentezari/ds-ml_febapr-2022/blob/master/final-project_guide-notebooks/option-4-guide.ipynb
+https://github.com/danyentezari/ds-ml_febapr-2022/blob/master/final-project_guide-notebooks/option-04-guide.ipynb
 
 ::: Fraud Detection for Banking
 
 ::: Image Recognition with Trained Model
-
+https://github.com/danyentezari/ds-ml_febapr-2022/blob/master/final-project_guide-notebooks/option-10-guide.ipynb
 
 ::: Sale Forecasting of Real Estate
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques
