@@ -15,7 +15,7 @@ https://github.com/danyentezari/ds-ml_febapr-2022/blob/master/final-project_guid
 https://github.com/danyentezari/ds-ml_febapr-2022/blob/master/final-project_guide-notebooks/option-05-guide.ipynb
 
 ::: Image Recognition with Trained Model
-https://github.com/danyentezari/ds-ml_febapr-2022/blob/master/final-project_guide-notebooks/option-10-guide.ipynb
+https://github.com/danyentezari/ds-ml_febapr-2022/blob/master/final-project_guide-notebooks/option-06-guide.ipynb
 
 ::: Sale Forecasting of Real Estate
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques
