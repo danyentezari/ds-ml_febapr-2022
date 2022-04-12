@@ -6,7 +6,7 @@ https://www.kaggle.com/shivamb/tech-company-fundings-2020-onwards
 tech-fundings.csv
 
 ::: Text Classification for Media
-To be added
+https://www.kaggle.com/competitions/learn-ai-bbc/data?select=BBC+News+Train.csv
 
 ::: Sentiment Analysis for E-Commerce
 https://github.com/danyentezari/ds-ml_febapr-2022/blob/master/final-project_guide-notebooks/option-04-guide.ipynb
@@ -23,8 +23,9 @@ house-prices_train.csv
 house-prices_test.csv
 
 ::: Price Forecasting in Oil & Gas (Time Series)
+https://www.kaggle.com/competitions/predicting-oil-price/data
 time-series-train.csv
 time-series-test.csv
 
 ::: Survival Analysis for Ecommerce
-To be added
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
