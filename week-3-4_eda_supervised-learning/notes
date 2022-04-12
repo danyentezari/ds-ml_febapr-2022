@@ -32,20 +32,6 @@ Data Science
     Domain Expertise
 
 
-
-Age
-29
-30
-20
-21
-29
-29
-21
-29
-29
-
-
-
 1 - Analysis of Numerical Features
 2 - Analysis of Categorical Features
 3 - Feature Engineering
@@ -76,3 +62,231 @@ Classify
 4 - Train/Test Split
 5 - Model Training
 6 - Model Metrics
+
+
+
+
+Feature (Explanatory Variable) / Labels (Response Variable)
+
+    Numerical
+        Discrete
+            A number is that is countable and finite
+        Continuous
+            A number is not countable and infinite
+    Categorical
+        Nominal
+            Feature that does not indicate any value
+        Ordinal
+            Feature that indicate value
+
+
+
+Notebook.ipynb
+
+(1) Import libraries
+(2) Import data
+(3) EDA
+(4) Feature Engineering
+(5) Train/Test Split  (random_state)
+(6) Machine Learning
+(7) Metrics (great)
+
+
+Overfitting
+    Indicators:
+        Training Metrics Good
+        Test Metrics Bad
+    Solution:
+        Add more training data
+        Remove noise
+        Reduce complexity model
+
+
+Underfitting
+    Indicators:
+        Training Metrics Bad
+        Test Metrics Bad
+    Solution:
+        Add more features
+        Increase complexity model
+
+
+Data Science
+    Statistics
+        Probability Theory
+            Single-Variable Calculus
+                Integral Calculus
+                Differential Calculus
+            Multi-Variate Calculus
+            Matrix Theory
+            Stochastic Calculus
+
+
+Books
+    O'Reilly, Doing Data Science
+    O'Reilly, Hands-On Machine Learning with SciKit-Learn and TensorFlow
+    Mit Press, Fundamentals of Machine Learning for Predictive Analytics
+    CRC Press, Machine Learning & Pattern Recognition
+    Cambridge University Press, Data Mining and Machine Learning
+    Springer, Elements of Statistical Learning
+
+    Schaum's Outlines
+    Matrix Theory
+    College Calculus
+    Probability Theory
+    Discrete Mathematics
+    Vector Analysis
+
+
+
+Train
+
+
+
+GridSearchCV()
+- Test several models simultaneously
+- Train/Test on train
+
+
+
+
+
+
+
+
+model.fit(X, y)
+
+X_1      |        y
+-------------------
+3             100k
+3             120k  
+3             110k
+2             70k
+1             40k
+5             200k  
+4             190k
+3             100k  
+
+
+
+
+
+model.predict(X)
+
+X_1      |        y_hat
+-----------------------
+3               120k
+3               119k       
+3               121k 
+2               90k
+1               30k
+5               220k 
+4               180k
+3               150k 
+
+| 100k - 120k | + ... + | 100k - 150k|
+-------------------------------------- = 1,500 USD
+                 8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Test
+
+X_1      |        y
+-------------------
+3              11k           
+3              110k 
+4              250k
+2              210k
+
+
+X_1      |        y
+-------------------
+0              10k           
+3              110k 
+8              260k
+12             200k
+
+MAE = 4,000
+MSE = 16,000 = RMSE 4,000
+R^2 = 0.8
+
+
+
+
+MAE ----> 0
+MSE ----> 0
+R^2 ----> 1
+
+
+num_bathrooms       num_bedrooms        pool            price     price_hat        MAE = 1,500 AED
+---------------------------------------------------------------------------
+1                   2                   1               | 100k   -    101k | +
+2                   2                   0               | 110k   -    100k | +
+2                   3                   1               | 150k   -    140k | 
+
+
+
+
+
+num_bathrooms       num_bedrooms        pool            price      price_hat       MAE = 200 AED
+----------------------------------------------------------------------------   
+2                   2                   1               | 115k   -    500k |
+
+
+
+
+
+P=Problem
+    - Domain Expertise
+P=Plan
+    - Domain Expertise
+    - Statistics
+    - Computer Science
+D=Data
+    - Statistics
+    - Computer Science
+A=Analysis
+    - Statistics
+C=Conclusion
+    - Statistics
+    - Domain Expertise
+
+
+
+(1) Overview of Terminology
+
+Data Analytics
+    - BI Tools
+    - A/B Testing
+
+Data Engineering
+    - Warehousing
+        - ETL
+        - Self Service
+        - dbt, Snowflake, Fivetran
+
+Statistics
+    - p-value  
+    - Z-tests
