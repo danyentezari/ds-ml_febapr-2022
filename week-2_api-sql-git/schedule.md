@@ -87,3 +87,27 @@ Friday 08/04/2022
 Monday 11/04/2022
 (1) Fundamentals of NumPy
 (2) Overview of Mathematical Statistics
+
+Tuesday 12/04/2022
+(1) Introduction to Generalized Regression Model
+(2) Variance, Covariance, Correlation, Computing Formula
+(3) Example for Linear Regression (sklearn)
+
+Wednesday 13/04/2022
+(1) Review of Computing Formula
+(2) Mean, Variance, Standard Deviation 
+(3) Covariance, Correlation
+(4) MAE, MSE, RMSE, R^2
+(5) Logistic Regression
+(6) Probability, Odds, Log-Odds, Logit Function
+
+Thursday 14/04/2022
+(1) Review of Logit and Sigmoid Functions
+(2) Example for Logistic Regression (sklearn)
+
+
+Friday 15/04/2022
+(1) Visualization with Seaborn
+(2) Introduction to Statsmodels
+(3) Statistical (Hypothesis) Tests
+(4) Example of Hypothesis Test (high-level)

@@ -288,5 +288,101 @@ Data Engineering
         - dbt, Snowflake, Fivetran
 
 Statistics
-    - p-value  
-    - Z-tests
+    Hypothesis Testing
+        p-value 
+        Statistical Test
+            Z-test
+
+
+    Sampling
+        Class Imbalance
+            Indication
+                Ratio exceeds 1:10
+            Solution
+                Oversampling
+                Undersamlping 
+
+
+RNN Deep Learning
+    Input
+    - "Food was delicious. Served cold. Served late. Met my friend."
+
+
+    Encoding Layer
+    - [23, 45, 67, 22, 100, 12, 89, 12, 34]
+
+
+    Embedding Layer
+    - [5, 4, 1, 2, 3]
+
+
+    RNN Layer
+    - [5, 4] ---> 100
+    - [1, 2] ---> 150
+    - [3] ------> 0
+
+
+    Densely Connect Output
+    - 100 ---> 100
+    - 150 ---> 150
+    - 3   ---> 0
+
+    Output Layer
+    - 0.3
+
+
+X = [
+    3,
+    4,
+    5,
+]
+
+mu = 4
+
+
+
+
+
+X_subset = [
+    4,
+    5
+]
+
+x_bar = 4.5
+
+
+
+
+np.newaxis
+    X_val = [ 
+        0.06169621,
+        -0.05147406,
+        0.04445121,
+        -0.01159501,
+        -0.03638469 
+    ]
+
+
+    [ 
+        [0.06169621],
+        [-0.05147406],
+        [0.04445121],
+        [-0.01159501],
+        [-0.03638469] 
+    ]
+
+
+
+Feature Engineering
+    One-Hot Encoding
+        Categorical Data
+    Feature Scaling
+        Normalization (MinMax)
+            0 to 1
+        Standardization
+            -3 to +3
+
+    Outliers
+        Entry error
+        Sampling error
+        Nature of data

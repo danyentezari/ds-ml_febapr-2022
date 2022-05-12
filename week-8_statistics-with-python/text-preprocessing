@@ -1,0 +1,35 @@
+Text Preprocessing
+
+"The food was cold when it was served. It wasn't fresh. That's okay but at least some salt. Would not recommend :("
+
+
+
+1 - Tokenization (Vectorization)
+[
+    The,food,was,cold,when,it,was,served.,It,wasn't,fresh.,That's,okay,but,at,least,some,salt.,Would,not,recommend,:(
+]
+
+2 - Casefolding
+[
+    the,food,was,cold,when,it,was,served.,it,wasn't,fresh.,that's,okay,but,at,least,some,salt.,would,not,recommend,:(
+]
+
+3 - Punctuation Removal
+[
+    the,food,was,cold,when,it,was,served,it,wasnt,fresh,thats,okay,but,at,least,some,salt,would,not,recommend,:(
+]
+
+4 - Stop-Word Removal
+[
+    food,cold,served,fresh,okay,least,salt,recommend,:(
+]
+
+5 - Lemmatization & Stemming
+[
+    food,cold,serv,fres,ok,least,salt,recomm,:(
+]
+
+6 - Numerical Representation (Encode)
+[
+    12,5,41,100,29,13,78,34,900
+]
